@@ -26,10 +26,11 @@ The engine applies device rules, line-of-business rules, transaction limits, and
 # 📁 Project Structure
 java/
   ├── Main/
+  
          ├── InputMain.java
   ├── Module/
+  
          ├── Cart.java
-         
          ├── DeviceContext.java
          ├── PaymentInstrument.java
          ├── User.java
@@ -37,6 +38,7 @@ java/
          ├── DeviceContext.java
          ├── Cart.java
   ├── Service/
+  
          ├── PaymentRecommendationService.java
          ├── MakeOrderService.java
          ├── paymentRange.java
