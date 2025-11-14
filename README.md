@@ -1,3 +1,6 @@
+![image alt](https://github.com/patelaviral/Payment-recommendation-system/blob/5c47c909e1348613671ff43f9b91442d8d624258/Cred-payment-filter(part-3).png)
+![image alt](https://github.com/patelaviral/Payment-recommendation-system/blob/5c47c909e1348613671ff43f9b91442d8d624258/Cred-payment-filter(part-2).png)
+![image alt](https://github.com/patelaviral/Payment-recommendation-system/blob/5c47c909e1348613671ff43f9b91442d8d624258/Cred-payment-filter(part-1).png)
 # Payment Recommendation Engine (CRED-Style)
 
 A Java-based system that filters and ranks a user’s payment instruments during checkout.
